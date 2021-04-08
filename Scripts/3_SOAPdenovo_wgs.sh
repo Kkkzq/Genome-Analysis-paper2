@@ -1,5 +1,7 @@
 #!/bin/bash -l
+
 #SBATCH -A g2021012
+#SBATCH -M snowy
 #SBATCH -p core
 #SBATCH -n 4
 #SBATCH -t 03:00:00

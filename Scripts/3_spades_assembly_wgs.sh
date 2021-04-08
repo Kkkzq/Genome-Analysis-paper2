@@ -1,6 +1,6 @@
 #!/bin/bash -l
 
-#SBATCH -A g2019003
+#SBATCH -A g2021012
 #SBATCH -M snowy
 #SBATCH -p core
 #SBATCH -n 12
