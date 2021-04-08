@@ -12,6 +12,6 @@ module load bioinfo-tools
 
 # Your commands
 /sw/bioinfo/SOAPdenovo/2.04-r240/rackham/bin/SOAPdenovo-63mer all \
--s /home/nordman/private/genome_analysis/GenomeAnalysis/code/soapdenovo_config.txt \
+-s /home/ziqi/Ziqi_Genome_Analysis/script/soapdenovo_config.txt \
 -K 49 \
--o /home/nordman/private/genome_analysis/GenomeAnalysis/results/3_dna_assembly/soapdenovo/output
+-o /home/ziqi/Ziqi_Genome_Analysis/result/3_dna_assembly/soapdenovo/output
