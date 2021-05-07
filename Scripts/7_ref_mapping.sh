@@ -21,7 +21,7 @@ module load star/2.7.2b
 # read alignment
 cd /home/ziqi/Ziqi_Genome_Analysis/2_Eckalbar_2016/sel3/rna_seq_data/trimmed/
 
-for i in 242
+for i in 013 014 015 016 017 018 204 206 207 208 209 211 212 213 214 241 242
  	do
 	echo "Running Paired $i..."
         STAR --runThreadN 12 --genomeDir /home/ziqi/Ziqi_Genome_Analysis/result/7_ref_mapping/Index --readFilesIn sel3_SRR1719"$i".trim_1P.fastq.gz sel3_SRR1719"$i".trim_2P.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/ziqi/Ziqi_Genome_Analysis/result/7_ref_mapping/star_test/outputP_SRR{$i} --outSAMtype BAM SortedByCoordinate
