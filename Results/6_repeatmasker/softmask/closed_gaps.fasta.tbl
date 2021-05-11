@@ -1,0 +1,51 @@
+==================================================
+file name: closed_gaps.fasta        
+sequences:        254571
+total length:   86507394 bp  (73313141 bp excl N/X-runs)
+GC level:         40.98 %
+bases masked:   52394484 bp ( 60.57 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:             84906      9740416 bp   11.26 %
+      Alu/B1           0            0 bp    0.00 %
+      MIRs          4548       491341 bp    0.57 %
+
+LINEs:            184370     36391298 bp   42.07 %
+      LINE1       180038     35840659 bp   41.43 %
+      LINE2         3854       490678 bp    0.57 %
+      L3/CR1         340        40938 bp    0.05 %
+      RTE            133        18019 bp    0.02 %
+
+LTR elements:       8834      1342675 bp    1.55 %
+      ERVL          1904       308324 bp    0.36 %
+      ERVL-MaLRs    2528       366431 bp    0.42 %
+      ERV_classI    3572       592995 bp    0.69 %
+      ERV_classII    638        50759 bp    0.06 %
+
+DNA elements:       7796       958312 bp    1.11 %
+      hAT-Charlie   4064       501832 bp    0.58 %
+      TcMar-Tigger  1813       255832 bp    0.30 %
+
+Unclassified:         60         5941 bp    0.01 %
+
+Total interspersed repeats:  48438642 bp   55.99 %
+
+
+Small RNA:         79612      9216487 bp   10.65 %
+
+Satellites:         9895      2708263 bp    3.13 %
+Simple repeats:    19236      1119921 bp    1.29 %
+Low complexity:     2107       113373 bp    0.13 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be mammalia      
+RepeatMasker Combined Database: Dfam_3.1, RepBase-20181026
+                       
+run with rmblastn version 2.10.0+
+
