@@ -1,0 +1,37 @@
+                                 Started job on |	May 06 09:45:51
+                             Started mapping on |	May 06 09:45:51
+                                    Finished on |	May 06 10:08:20
+       Mapping speed, Million of reads per hour |	0.93
+
+                          Number of input reads |	350163
+                      Average input read length |	193
+                                    UNIQUE READS:
+                   Uniquely mapped reads number |	214660
+                        Uniquely mapped reads % |	61.30%
+                          Average mapped length |	188.56
+                       Number of splices: Total |	50092
+            Number of splices: Annotated (sjdb) |	0
+                       Number of splices: GT/AG |	34736
+                       Number of splices: GC/AG |	800
+                       Number of splices: AT/AC |	90
+               Number of splices: Non-canonical |	14466
+                      Mismatch rate per base, % |	1.35%
+                         Deletion rate per base |	0.06%
+                        Deletion average length |	1.99
+                        Insertion rate per base |	0.05%
+                       Insertion average length |	2.28
+                             MULTI-MAPPING READS:
+        Number of reads mapped to multiple loci |	25044
+             % of reads mapped to multiple loci |	7.15%
+        Number of reads mapped to too many loci |	553
+             % of reads mapped to too many loci |	0.16%
+                                  UNMAPPED READS:
+  Number of reads unmapped: too many mismatches |	0
+       % of reads unmapped: too many mismatches |	0.00%
+            Number of reads unmapped: too short |	55115
+                 % of reads unmapped: too short |	15.74%
+                Number of reads unmapped: other |	54791
+                     % of reads unmapped: other |	15.65%
+                                  CHIMERIC READS:
+                       Number of chimeric reads |	0
+                            % of chimeric reads |	0.00%
